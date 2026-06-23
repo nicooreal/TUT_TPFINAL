@@ -6,5 +6,6 @@ TUT
 ## Materia
 Programacion
 ## Programa Utilizado
-PseInt
+PseInt y Python
 ## Descripción
+TP integrador, se son 9 archivos de Pseint y uno de Python
